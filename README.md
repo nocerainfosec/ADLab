@@ -25,3 +25,6 @@ Option 3: Set up network share on the Domain controller and Workstation.
 Option 6: Configure machine name and set the DNS to IP address of Domain Controller.
 
 Option 7: Join the workstation to the Domain.
+
+
+Thanks to https://github.com/browninfosecguy for the creation of this script!
